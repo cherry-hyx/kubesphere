@@ -45,8 +45,6 @@ require (
 	github.com/go-openapi/strfmt v0.19.5
 	github.com/go-openapi/validate v0.19.8
 	github.com/go-redis/redis v6.15.2+incompatible
-	github.com/go-sql-driver/mysql v1.5.0
-	github.com/gocraft/dbr v0.0.0-20180507214907-a0fd650918f6
 	github.com/gofrs/uuid v3.2.0+incompatible // indirect
 	github.com/golang/example v0.0.0-20170904185048-46695d81d1fa
 	github.com/google/go-cmp v0.5.6
@@ -353,7 +351,7 @@ replace (
 	github.com/go-playground/locales => github.com/go-playground/locales v0.12.1
 	github.com/go-playground/universal-translator => github.com/go-playground/universal-translator v0.0.0-20170327191703-71201497bace
 	github.com/go-redis/redis => github.com/go-redis/redis v6.15.2+incompatible
-	github.com/go-resty/resty/v2 => github.com/go-resty/resty/v2 v2.5.0
+	github.com/go-resty/resty/v2 => github.com/go-resty/resty/v2 v2.7.0
 	github.com/go-sql-driver/mysql => github.com/go-sql-driver/mysql v1.5.0
 	github.com/go-stack/stack => github.com/go-stack/stack v1.8.0
 	github.com/gobuffalo/attrs => github.com/gobuffalo/attrs v0.0.0-20190224210810-a9411de4debd

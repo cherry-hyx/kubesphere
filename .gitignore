@@ -33,3 +33,6 @@ apiserver.local.config
 tmp/
 kubesphere.yaml
 testbin/
+pkg/simple/client/openpitrix/helmwrapper/helm_wrapper_linux copy.go
+go.mod
+go.sum
